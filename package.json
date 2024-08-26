@@ -5,7 +5,7 @@
   "description": "",
   "main": "index.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "@hoanguyen-allcommerce:registry": "https://npm.pkg.github.com"
   },
   "repository": {
     "type": "git",
