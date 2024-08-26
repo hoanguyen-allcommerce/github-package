@@ -1,12 +1,8 @@
 {
-  "name": "@allcommerce/test",
+  "name": "gh-test-package",
   "version": "0.0.1",
-  "private": true,
   "description": "",
   "main": "index.js",
-  "publishConfig": {
-    "@hoanguyen-allcommerce:registry": "https://npm.pkg.github.com"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hoanguyen-allcommerce/github-package.git"
